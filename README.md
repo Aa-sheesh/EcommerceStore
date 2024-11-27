@@ -9,3 +9,4 @@
     npm run dev
 ```
 
+3. Enter the necessary credentials in .env and try the website on development server.
