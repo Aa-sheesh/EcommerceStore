@@ -1,10 +1,11 @@
 # Project Setup
-1. Run this in the terminal:
-```  
-    npm i 
+1. In the root folder, do this-
 ```
-2. Fix the .env according to the .env.sample
-3. Run this command to start the server:
+    npm run dev
 ```
-    npm run dev 
+
+2. Go to frontend folder and run this command-
 ```
+    npm run dev
+```
+
