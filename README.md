@@ -42,5 +42,5 @@ Khareedari is a e commerce platform that helps user have a seemless experience s
 This project is under [MIT License](./LICENSE).
 
 ## Contact
-**Developer** : Aashish Singh
-**Email** : aashishs4912345@gmail.com
+- **Developer** : Aashish Singh
+- **Email** : aashishs4912345@gmail.com
